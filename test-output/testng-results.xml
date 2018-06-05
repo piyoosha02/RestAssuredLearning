@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3608" started-at="2018-05-31T11:27:37Z" finished-at="2018-05-31T11:27:41Z">
+  <suite name="Default suite" duration-ms="2671" started-at="2018-06-04T12:06:52Z" finished-at="2018-06-04T12:06:55Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="3608" started-at="2018-05-31T11:27:37Z" finished-at="2018-05-31T11:27:41Z">
-      <class name="rest.basic.testing.ValidateResponse">
-        <test-method status="PASS" signature="validateResponse()[pri:0, instance:rest.basic.testing.ValidateResponse@77cd7a0]" name="validateResponse" duration-ms="3577" started-at="2018-05-31T11:27:37Z" finished-at="2018-05-31T11:27:41Z">
+    <test name="Default test" duration-ms="2671" started-at="2018-06-04T12:06:52Z" finished-at="2018-06-04T12:06:55Z">
+      <class name="rest.basic.testing.PostRequest">
+        <test-method status="PASS" signature="validateResponse()[pri:0, instance:rest.basic.testing.PostRequest@77cd7a0]" name="validateResponse" duration-ms="2665" started-at="2018-06-04T12:06:52Z" finished-at="2018-06-04T12:06:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateResponse -->
-      </class> <!-- rest.basic.testing.ValidateResponse -->
+      </class> <!-- rest.basic.testing.PostRequest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
